@@ -1,14 +1,12 @@
-import './App.css'
 
-function App() {
- 
 
+const App = () => {
   return (
-    <>
-      <button className="bg-red-500">
-           Save changes
-      </button>
-    </>
+    <div className="min-h-screen flex justify-center items-center">
+      <h1 className="text-3xl font-bold text-blue-600">
+         react-redux-store
+      </h1>
+    </div>
   )
 }
 
