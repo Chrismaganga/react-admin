@@ -1,4 +1,0 @@
-node-sass
-bootsrap
-react18
-font-awesome
